@@ -1,0 +1,20 @@
+{
+  "name": "win_service_pdf",
+  "version": "1.0.0",
+  "description": "Generador de cupones PDFs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SaulDev09",
+    "PDF",
+    "WinService"
+  ],
+  "author": "Saul Chipana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "http": "0.0.1-security"
+  }
+}
